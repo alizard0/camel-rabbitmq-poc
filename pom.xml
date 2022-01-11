@@ -10,10 +10,10 @@
 	</parent>
 
 	<groupId>com.example</groupId>
-	<artifactId>camel-amqp-poc</artifactId>
+	<artifactId>camel-rabbitmq-poc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>camel-amqp-poc</name>
-	<description>POC for camel-amqp</description>
+	<name>camel-rabbitmq-poc</name>
+	<description>POC for camel-rabbitmq</description>
 
 	<properties>
 		<java.version>1.8</java.version>
