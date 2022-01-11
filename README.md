@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # camel-amqp-poc
 proof of concept for camel-amqp using camel-rest for exposing amqp routes.
 
@@ -33,3 +34,7 @@ publishEventDirectRoute                  : Publishing event {key1=value1, key2=v
 org.apache.qpid.jms.JmsConnection        : Connection ID:3... connected to server: amqp://localhost:5672
 route1                                   : Message received {key1=value1, key2=value2}
 ```
+=======
+# camel-rabbitmq-poc
+poc for camel-rabbitmq
+>>>>>>> 2cc4a96... Initial commit
